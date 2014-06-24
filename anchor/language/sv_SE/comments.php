@@ -3,22 +3,22 @@
 return array(
 
 	'comments' => 'Kommentarer',
-	'nocomments_desc' => 'Inga kommentarer ännu.',
-	'editing_comment' => 'Ändrar kommentar',
+	'nocomments_desc' => 'Inga kommentarer Ã¤nnu.',
+	'editing_comment' => 'Ã„ndrar kommentar',
 	'view_comment' => 'Visa kommentar',
 
 	// form fields
 	'name' => 'Namn',
-	'name_explain' => 'Författare',
-	'name_missing' => 'Vänligen ange ett namn',
+	'name_explain' => 'FÃ¶rfattare',
+	'name_missing' => 'VÃ¤nligen ange ett namn',
 
 	'email' => 'E-mail adress',
-	'email_explain' => 'Författarens e-postadress',
-	'email_missing' => 'Vänligen ange en fungerande e-postadress', // frontend message (appears on your site!)
+	'email_explain' => 'FÃ¶rfattarens e-postadress',
+	'email_missing' => 'VÃ¤nligen ange en fungerande e-postadress', // frontend message (appears on your site!)
 
 	'text' => 'Kommentar',
 	'text_explain' => '',
-	'text_missing' => 'Vänligen skriv en kommentar', // frontend message (appears on your site!)
+	'text_missing' => 'VÃ¤nligen skriv en kommentar', // frontend message (appears on your site!)
 
 	'status' => 'Status',
 	'status_explain' => '',

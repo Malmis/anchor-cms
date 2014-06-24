@@ -10,14 +10,14 @@ return array(
 
 	// form fields
 	'redirect_url' => 'Omdirigera Url',
-	'redirect_missing' => 'VÃ¤nligen ange en fungerande url',
+	'redirect_missing' => 'Vänligen ange en fungerande url',
 
 	'title' => 'Sidans titel',
 	'title_explain' => '',
-	'title_missing' => 'VÃ¤nligen ange sidans titel',
+	'title_missing' => 'Vänligen ange sidans titel',
 
-	'content' => 'InnehÃ¥ll',
-	'content_explain' => 'Din sidas innehÃ¥ll. Markdown anvÃ¤nds.',
+	'content' => 'Innehåll',
+	'content_explain' => 'Din sidas innehåll. Markdown används.',
 
 	'show_in_menu' => 'Visa i meny',
 	'show_in_menu_explain' => '',
@@ -26,15 +26,15 @@ return array(
 	'name_explain' => '',
 
 	'slug' => 'Utkast',
-	'slug_explain' => 'Utkast uri fÃ¶r att identifiera din sida ska endast innehÃ¥lla ascii tecken',
-	'slug_missing' => 'VÃ¤nligen ange utkast uri. Utkast kan bara innehÃ¥lla ascii tecken',
+	'slug_explain' => 'Utkast uri för att identifiera din sida ska endast innehålla ascii tecken',
+	'slug_missing' => 'Vänligen ange utkast uri. Utkast kan bara innehålla ascii tecken',
 	'slug_duplicate' => 'Utkast finns redan',
-	'slug_invalid' => 'Utkast mÃ¥ste innehÃ¥lla bokstÃ¤ver',
+	'slug_invalid' => 'Utkast måste innehålla bokstäver',
 
 	'status' => 'Status',
 	'status_explain' => '',
 
-	'parent' => 'Ã–verordnad',
+	'parent' => 'Överordnad',
 	'parent_explain' => '',
 
 	// messages

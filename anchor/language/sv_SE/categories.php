@@ -6,23 +6,23 @@ return array(
 	'categories' => 'Kategorier',
 
 	'create_category' => 'Skapa en ny kategori',
-	'edit_category' => 'Ändrar &ldquo;%s&rdquo;',
+	'edit_category' => 'Ã„ndrar &ldquo;%s&rdquo;',
 
 	// form fields
 	'title' => 'Titel',
 	'title_explain' => 'Din kategori titel.',
-	'title_missing' => 'Vänligen ange en titel',
+	'title_missing' => 'VÃ¤nligen ange en titel',
 
 	'slug' => 'Utkast',
-	'slug_explain' => 'Utkastet för din kategori.',
+	'slug_explain' => 'Utkastet fÃ¶r din kategori.',
 
 	'description' => 'Beskrivning',
-	'description_explain' => 'Vad din kategori innehåller.',
+	'description_explain' => 'Vad din kategori innehÃ¥ller.',
 
 	// messages
 	'created' => 'Din nya kategori skapats.',
 	'updated' => 'Din kategori uppdaterades.',
 	'deleted' => 'Din kategori raderades.',
-	'delete_error' => 'Du måste ha minst en kategori.',
+	'delete_error' => 'Du mÃ¥ste ha minst en kategori.',
 
 );

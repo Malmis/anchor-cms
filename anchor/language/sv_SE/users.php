@@ -2,22 +2,22 @@
 
 return array(
 
-	'users' => 'Anv‰ndare',
+	'users' => 'Anv√§ndare',
 
-	'create_user' => 'Skapa en ny anv‰ndare',
-	'add_user' => 'L‰gg till en ny anv‰ndare',
-	'editing_user' => 'ƒndrar %s&rsquo;s profil',
-	'remembered' => 'Jag kan mitt lˆsenord',
-	'forgotten_password' => 'Glˆmt ditt lˆsenord?',
+	'create_user' => 'Skapa en ny anv√§ndare',
+	'add_user' => 'L√§gg till en ny anv√§ndare',
+	'editing_user' => '√Ñndrar %s&rsquo;s profil',
+	'remembered' => 'Jag kan mitt l√∂senord',
+	'forgotten_password' => 'Gl√∂mt ditt l√∂senord?',
 
 	// roles
-	'administrator' => 'Administratˆr',
+	'administrator' => 'Administrat√∂r',
 	'administrator_explain' => '',
 
-	'editor' => 'Fˆrfattare',
+	'editor' => 'F√∂rfattare',
 	'editor_explain' => '',
 
-	'user' => 'Anv‰ndare',
+	'user' => 'Anv√§ndare',
 	'user_explain' => '',
 
 	// form fields
@@ -33,35 +33,35 @@ return array(
 	'role' => 'Roll',
 	'role_explain' => '',
 
-	'username' => 'Anv‰ndarnamn',
+	'username' => 'Anv√§ndarnamn',
 	'username_explain' => '',
-	'username_missing' => 'V‰nligen ange ett anv‰ndarnamn, mÂste innehÂlla minst %s tecken',
+	'username_missing' => 'V√§nligen ange ett anv√§ndarnamn, m√•ste inneh√•lla minst %s tecken',
 
-	'password' => 'Lˆsenord',
+	'password' => 'L√∂senord',
 	'password_explain' => '',
-	'password_too_short' => 'Lˆsenord mÂste innehÂlla minst %s tecken',
+	'password_too_short' => 'L√∂senord m√•ste inneh√•lla minst %s tecken',
 
-	'new_password' => 'Nytt lˆsenord',
+	'new_password' => 'Nytt l√∂senord',
 
 	'email' => 'E-post',
 	'email_explain' => '',
-	'email_missing' => 'V‰nligen ange en fungerande e-post adress',
+	'email_missing' => 'V√§nligen ange en fungerande e-post adress',
 	'email_not_found' => 'Profilen finns inte.',
 
 	// messages
-	'updated' => 'Anv‰ndarprofilen uppdaterades.',
-	'created' => 'Anv‰ndarprofilen skapades.',
-	'deleted' => 'Anv‰ndarprofilen raderades.',
+	'updated' => 'Anv√§ndarprofilen uppdaterades.',
+	'created' => 'Anv√§ndarprofilen skapades.',
+	'deleted' => 'Anv√§ndarprofilen raderades.',
 	'delete_error' => 'Du kan inte radera din egen profil',
-	'login_error' => 'Anv‰ndarnamn eller lˆsenord ‰r felaktigt.',
-	'logout_notice' => 'Du ‰r nu utloggad.',
-	'recovery_sent' => 'Vi har skickat ett e-post meddelande till dig fˆr att bekr‰fta ditt lˆsenordsbyte.',
-	'recovery_expired' => 'LˆsenordsÂterst‰llningen har gÂtt ut, v‰nligen fˆrsˆk igen.',
-	'password_reset' => 'Ditt nya lˆsenord har st‰llts in. GÂ och logga in nu!',
+	'login_error' => 'Anv√§ndarnamn eller l√∂senord √§r felaktigt.',
+	'logout_notice' => 'Du √§r nu utloggad.',
+	'recovery_sent' => 'Vi har skickat ett e-post meddelande till dig f√∂r att bekr√§fta ditt l√∂senordsbyte.',
+	'recovery_expired' => 'L√∂senords√•terst√§llningen har g√•tt ut, v√§nligen f√∂rs√∂k igen.',
+	'password_reset' => 'Ditt nya l√∂senord har st√§llts in. G√• och logga in nu!',
 
 	// password recovery email
-	'recovery_subject' => '≈terst‰llning av lˆsenord',
-	'recovery_message' => 'Du har beg‰rt att Âterst‰lla ditt lˆsenord.' .
-		'Om du vill forts‰tta, fˆlj l‰nken nedan' . PHP_EOL . '%s',
+	'recovery_subject' => '√Öterst√§llning av l√∂senord',
+	'recovery_message' => 'Du har beg√§rt att √•terst√§lla ditt l√∂senord.' .
+		'Om du vill forts√§tta, f√∂lj l√§nken nedan' . PHP_EOL . '%s',
 
 );

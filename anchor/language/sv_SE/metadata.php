@@ -11,30 +11,30 @@ return array(
 	// form fields
 	'sitename' => 'Webbplatsnamn',
 	'sitename_explain' => '',
-	'sitename_missing' => 'Din webbplats behöver ett namn!',
+	'sitename_missing' => 'Din webbplats behÃ¶ver ett namn!',
 
 	'sitedescription' => 'Webbplatsbeskrivning',
 	'sitedescription_explain' => '',
-	'sitedescription_missing' => 'Din webbsida behöver en beskrivning!',
+	'sitedescription_missing' => 'Din webbsida behÃ¶ver en beskrivning!',
 
 	'homepage' => 'Hemsida',
 	'homepage_explain' => '',
 
-	'postspage' => 'Inläggssida',
+	'postspage' => 'InlÃ¤ggssida',
 	'postspage_explain' => '',
 
-	'posts_per_page' => 'Inlägg per sida',
+	'posts_per_page' => 'InlÃ¤gg per sida',
 	'posts_per_page_explain' => '',
 
-	'auto_publish_comments' => 'Tillåt kommentarer automatiskt',
+	'auto_publish_comments' => 'TillÃ¥t kommentarer automatiskt',
 	'auto_publish_comments_explain' => '',
 
-	'comment_notifications' => 'E-post notifikation för nya kommentarer',
+	'comment_notifications' => 'E-post notifikation fÃ¶r nya kommentarer',
 	'comment_notifications_explain' => '',
 
-	'comment_moderation_keys' => 'Skräp nyckelord',
+	'comment_moderation_keys' => 'SkrÃ¤p nyckelord',
 	'comment_moderation_keys_explain' => 'Kommaseparerad lista med nyckelord att svartlista.
-		Kommentarer kommer automatiskt markeras som skräp.',
+		Kommentarer kommer automatiskt markeras som skrÃ¤p.',
 
 	'current_theme' => 'Aktuellt tema',
 	'current_theme_explain' => '',
